@@ -103,6 +103,7 @@ text-align: right;
 
 #navdiv {
   margin-top: 40px;
+  margin-bottom: 30px;
   background: #333333;
   height: 40px;
   border-radius: 5px;
@@ -127,4 +128,32 @@ text-align: right;
 
 #nav a:hover {
   color:#ba2e1f;
+}
+
+#biglogodiv {
+  height: 400px;
+  overflow: hidden;
+
+}
+#biglogo {
+  float:left;
+  width:400px;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+
+
+#hugetitle {
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size:50px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#titletext {
+  margin-top:120px;
+  color:#666666;
 }
