@@ -108,7 +108,10 @@ text-align: right;
   border-radius: 5px;
 }
 
-
+#nav a {
+  text-decoration: none;
+  color:#e9e8e3;
+}
 
 #nav {
   text-align: center;
@@ -122,6 +125,6 @@ text-align: right;
   color:#e9e8e3;
 }
 
-#nav li:hover {
+#nav a:hover {
   color:#ba2e1f;
 }
