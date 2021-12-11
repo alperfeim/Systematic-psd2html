@@ -171,3 +171,70 @@ text-align: right;
   float: right;
 
 }
+
+#bottomsection {
+  margin-top: 35px;
+}
+
+.stylebottomsection {
+  width:320px;
+  float:left;
+  display:inline-block;
+  position: relative;
+}
+
+.stylebottomsection h2 {
+  margin-bottom: 30px;
+  color:#333333
+  font-weight:bold;
+  font-size:20px;
+}
+
+.stylebottomsection p {
+  color:#878787;
+}
+
+#logo290 {
+  margin-bottom: 20px;
+
+}
+
+
+.bottomred {
+  text-decoration: none;
+  color:#b92d1f;
+  position: relative;
+  float: right;
+  top:10px;
+  bottom: 0px;
+}
+
+
+.servicesstyle {
+  margin-bottom: 23px;
+}
+
+.servicesstyle img {
+  display:inline-block;
+  float:left;
+  margin-right: 15px;
+
+}
+
+.servicesstyle h3 {
+  text-align: right;
+  display: inline;
+  color:#878787;
+  font-weight: bold;
+}
+
+.servicesstyle p{
+  margin-top: 10px;
+
+}
+
+.aboutustexts {
+  width:290px;
+  text-align: justify;
+
+}
