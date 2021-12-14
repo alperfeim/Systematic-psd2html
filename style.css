@@ -238,3 +238,31 @@ text-align: right;
   text-align: justify;
 
 }
+
+.qticon {
+  float: left;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.name {
+  margin-top: 10px;
+  color:#989898;
+  font-weight: bold;
+  display:inline-block;
+  font-size: 17px;
+}
+
+.job {
+  display:inline-block;
+}
+
+.say {
+  margin-top:10px;
+  display:inline-block;
+  color:#878787;
+}
+
+.clients {
+  margin-bottom:55px;
+}
