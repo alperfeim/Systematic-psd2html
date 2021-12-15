@@ -268,7 +268,7 @@ text-align: right;
 }
 
 .prefootersections {
-  width:240px;
+  width:205px;
   float:left;
   display:inline-block;
   margin-right:35px;
@@ -300,5 +300,110 @@ text-align: right;
 }
 
 .tweet {
- display:inline;
+ display:inline-block;
+ color:#666666;
+ font-size:15px;
+ margin-bottom: 10px;
+}
+
+.qlinkstyle {
+list-style-type: "\00BB";
+}
+
+.qlinkstyle li{
+  border-bottom: 1px solid #d4d4d4;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  padding-left: 5px;
+}
+
+.qlinkstyle a {
+  font-size:15px;
+  text-decoration: none;
+  color:#666666;
+  font-style: normal;
+}
+
+.ptitle {
+  font-weight: bold;
+  color:#666666;
+}
+
+.ownerpt {
+  color:#b82c1f;
+  font-size: 15px;
+  display:inline-block;
+}
+
+.titleownstyle {
+  color:#666666;
+  font-size:14px;
+  display:inline-block;
+}
+
+.poststyle {
+  color:#666666;
+  font-size:14px;
+  display:inline-block;
+  margin-top:25px;
+}
+
+.postdivstyle {
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.postdivstyle a {
+  text-decoration: none;
+}
+
+.formsstyle {
+  background-color: #f2f2f2;
+  border:none;
+  border-radius: 5px;
+  color:#989898;
+  margin-bottom: 15px;
+  height:30px;
+  width: 205px;
+  line-height: 3px;
+  padding-left:8px;
+}
+
+.messagestyle {
+  height:110px;
+}
+
+#contactform button {
+  background-color: #f2f2f2;
+  text-align: center;
+  border:none;
+  border-radius: 5px;
+  color:#ba2e1f;
+  width:80px;
+  height: 30px;
+  font-weight: bold;
+}
+
+.footerstyle {
+  float:left;
+  width:100%;
+  height:65px ;
+  background-color: #f2f2f2;
+}
+
+.cpy {
+  color:#919191;
+  display:inline;
+  float:left;
+}
+
+.templateowner {
+  color:#919191;
+  display:inline;
+  float:right;
+}
+
+.footercontentstyle {
+
+  margin-top:25px;
 }
